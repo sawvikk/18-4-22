@@ -1,0 +1,19 @@
+.c1{
+    background:linear-gradient(rgb(255, 81, 0),rgb(246, 255, 0));
+}
+.c2{
+    background: linear-gradient(pink,violet);
+}
+.c3{
+    background: linear-gradient(blue,skyblue);
+}
+.col-md-4{
+    color:aliceblue;
+    
+}
+.c2,.c1,.c3{
+    border-radius: 10px;
+}
+.card{
+    background: skyblue;
+}
